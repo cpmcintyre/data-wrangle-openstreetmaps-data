@@ -1,0 +1,3 @@
+http://docs.mongodb.org/manual/reference/operator/aggregation-group/http://docs.mongodb.org/manual/reference/operator/aggregation/http://docs.mongodb.org/manual/reference/method/db.collection.distinct/https://docs.python.org/3.4/library/re.html#re.search
+https://docs.python.org/3.4/library/functions.html?highlight=enumerate#enumerate
+https://docs.python.org/3.4/library/stdtypes.html?highlight=list#list
